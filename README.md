@@ -22,8 +22,8 @@ Input Variables
 Variable               | Type                | Mandatory     | Values                           | Example
 -----------------------| --------------------| --------------| ---------------------------------| ---------
 Square Footage         | Int                 | Yes           | Number                           | 1200
-# of Bathrooms         | Int                 | Yes           | Number                           | 2
-# of Bedrooms          | Int                 | Yes           | Number                           | 3
+Num of Bathrooms       | Int                 | Yes           | Number                           | 2
+Num of Bedrooms        | Int                 | Yes           | Number                           | 3
 Basement Need Cleaning | String              | Yes           | yes/no                           | no
 Initial Cleaning       | String              | Yes           | yes/no                           | no (have not had cleaning before)
 Frequency              | String              | Yes           | one time/weekly/biweekly/monthly | biweekly
