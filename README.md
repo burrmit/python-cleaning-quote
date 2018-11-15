@@ -3,7 +3,7 @@ Python Program to generate a cleaning quote based on user input
 ============================================
  Version | Date Modified | Editor  | Comments                   
 ---------|---------------|---------|-------------------
-1.0      | 14 NOV 2018   | m.burr  | Intial version
+1.0      | 14 NOV 2018   | burrmit  | Intial version
 
 Introduction
 -------------
